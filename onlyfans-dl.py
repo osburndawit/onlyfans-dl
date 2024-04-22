@@ -24,7 +24,7 @@ POST_LIMIT = 100
 
 # api info
 URL = "https://onlyfans.com"
-API_URL = "/api2/v2"
+API_URL = "https://onlyfans.com/ursxlmate"
 
 # \TODO dynamically get app token
 # Note: this is not an auth token
