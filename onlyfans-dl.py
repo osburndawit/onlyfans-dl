@@ -428,4 +428,4 @@ if __name__ == "__main__":
         cur_count = download_posts(cur_count, video_posts, False)
         download_posts(cur_count, archived_posts, True)
 
-        print("Downloaded " + str(new_files) + " new files.")
+            print("Downloaded " + str(new_files) + " new files.")
