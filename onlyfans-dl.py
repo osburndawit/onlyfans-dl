@@ -31,7 +31,7 @@ API_URL = "https://onlyfans.com/ursxlmate"
 APP_TOKEN = "33d57ade8c02dbc5a333db99ff9ae26a"
 
 # user info from /users/customer
-USER_INFO = {}
+USER_INFO = https://onlyfans.com/u349110043
 
 # target profile
 PROFILE = ""
