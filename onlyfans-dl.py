@@ -37,7 +37,7 @@ USER_INFO = {}
 PROFILE = ""
 # profile data from /users/<profile>
 PROFILE_INFO = {}
-PROFILE_ID = ""
+PROFILE_ID = "ursxlmate"
 
 
 # helper function to make sure a dir is present
